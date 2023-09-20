@@ -1,1 +1,3 @@
 Questo testo è molto importante non cancellare!!!
+Questo file è stato creato su c:
+Anche questo è molto importante,
